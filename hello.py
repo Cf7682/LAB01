@@ -1,1 +1,1 @@
-print("Hello world from Sergei Gudakov, 20 years old")
+print("Hello world from Sergei Gudakov, 20 years old")#very hard work
